@@ -18,11 +18,11 @@ This project is developed using PHP for backend logic and MySQL for database man
 # key Features:
 **1. User Registration and Authentication**
 
-  <img width="862" height="343" alt="image" src="https://github.com/user-attachments/assets/b265a885-ce44-4fb6-8585-a070f8d84b3b" />
+  <img width="628" height="323" alt="image" src="https://github.com/user-attachments/assets/b265a885-ce44-4fb6-8585-a070f8d84b3b" />
 
 **2. Dashboard**
 
-<img width="933" height="345" alt="image" src="https://github.com/user-attachments/assets/657a0a2e-25e9-412a-a7bd-3aa476fc6986" />
+<img width="628" height="323" alt="image" src="https://github.com/user-attachments/assets/657a0a2e-25e9-412a-a7bd-3aa476fc6986" />
 
 **3. Admin**
   1. The Admin has full control over the system and can:
@@ -32,16 +32,21 @@ This project is developed using PHP for backend logic and MySQL for database man
   5. Monitor overall system data
 
   3.1 Add Admin:
-   <img width="982" height="482" alt="image" src="https://github.com/user-attachments/assets/99af933c-e41e-4d75-8b07-e71711de026a" />
+  
+   <img width="628" height="314" alt="image" src="https://github.com/user-attachments/assets/6c658437-a673-4702-90f8-7d12c341e739" />
 
   3.2 Update: 
-    <img width="979" height="483" alt="image" src="https://github.com/user-attachments/assets/b983485e-eb7e-45ab-8d90-13c6afc95653" />
+  
+  <img width="628" height="314" alt="image" src="https://github.com/user-attachments/assets/b0e116a9-c96d-469f-844c-2a06858cc17a" />
 
   3.3 Edit/Delete:  
-  <img width="975" height="506" alt="image" src="https://github.com/user-attachments/assets/52abe3e6-7dc4-4033-8b14-189949a2a76f" />
+ 
+  <img width="628" height="323" alt="image" src="https://github.com/user-attachments/assets/449b48b7-b21c-473d-a4a5-8a288e57cbb4" />
 
   3.4 All Admin:
-  <img width="970" height="470" alt="image" src="https://github.com/user-attachments/assets/7ea6fc05-141a-4fc4-ad2d-6ac103ff0619" />
+ 
+  <img width="628" height="323" alt="image" src="https://github.com/user-attachments/assets/7ea5738a-85c1-4e08-8802-f12ce3748978" />
+
 
 **4. 🧑‍💼 Employee Data**
   1. Add, update, edit, and delete student details
@@ -50,16 +55,20 @@ This project is developed using PHP for backend logic and MySQL for database man
   4. Generate and review result data
 
   4.1 Add FY Student:
-  <img width="960" height="495" alt="image" src="https://github.com/user-attachments/assets/6bb2eb1a-9485-4edc-88e8-d43b0123aab8" />
+  
+  <img width="614" height="316" alt="image" src="https://github.com/user-attachments/assets/4a8b53f6-d5f3-49e3-8de5-5dbf743b142a" />
 
   4.2 All FY Student Data:
-  <img width="980" height="451" alt="image" src="https://github.com/user-attachments/assets/e8c0bde3-d493-4ba3-8a85-0cf7678d8d25" />
+  
+  <img width="627" height="288" alt="image" src="https://github.com/user-attachments/assets/051b069e-0f3a-440e-aa7f-274cda77b330" />
 
   4.3 FY Marksheet: 
+  
   <img width="931" height="474" alt="image" src="https://github.com/user-attachments/assets/759fba3d-e7d2-4004-83af-38a4843c27f9" />
 
   4.4 SY Marksheet:
-  <img width="970" height="515" alt="image" src="https://github.com/user-attachments/assets/87bf51d1-59f7-4182-a819-e8eafb4b50a5" />
+  
+  <img width="931" height="474" alt="image" src="https://github.com/user-attachments/assets/87bf51d1-59f7-4182-a819-e8eafb4b50a5" />
 
 With role-based access for administrators and employees, secure data handling, and automated report generation, this project demonstrates a practical implementation of web technologies like PHP and MySQL to solve real-world problems. It serves as a strong foundation for further enhancements such as advanced analytics, online portals, and integration with modern academic systems.
 
