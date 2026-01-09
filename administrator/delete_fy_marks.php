@@ -1,0 +1,13 @@
+$s_name=$row['s_name'];
+				$s_fn=$row['s_fn'];
+				$s_mn=$row['s_mn'];
+				$s_gender=$row['s_gender'];
+				$s_dob=$row['s_dob'];
+				$s_mob=$row['s_mob'];
+				$s_mail_id=$row['s_mail_id'];
+				$s_address=$row['s_address'];
+				$seatno=$row['seatno'];
+				$institutename=$row['institutename'];
+				$instituteno=$row['instituteno'];
+				$centerno=$row['centerno'];
+				$examyear=$row['examyear']; 
